@@ -55,8 +55,7 @@ Subscribe for APIs
   Open Weather Map https://openweathermap.org/api
   News API https://newsapi.org/
   
-Update python files attached with them
-files to update are:
+Update python files attached with your own API
 main_code.py
 weather_code.py
 news_code.py
