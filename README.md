@@ -61,12 +61,13 @@ weather_code.py
 news_code.py
 
 Create a folder that will contain icons; saved.txt and python files
-mkdir your_filename_here
+mkdir your_filename
 
 add the content of "fonts" folder to the font folder of the RaspberryPi (using WinSCP)
 usr/share/fonts/truetype
 
 I have found weather icons from https://www.flaticon.com/ you can choose yours
+Create a folder named "icons" in your_filename
 
 run as root
 sudo su
